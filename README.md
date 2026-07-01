@@ -18,6 +18,7 @@ LLM-сессия без памяти проходит только через ф
 
 - **`skill/retrospective/`** — сам скилл (`SKILL.md` + `reference/mechanics-and-basis.md`). Готов к установке в Claude Code.
 - **`research/self-learning-loop-for-claude.md`** — полный ресёрч-отчёт: доказательная база из 4 областей (самообучающиеся агенты, инженерия постмортемов, lean SDCA→PDCA/hansei, механика Claude Code) со всеми источниками.
+- **`research/claude-code-context-efficiency.md`** — ресёрч экономики контекста Claude Code: почему экономия токенов и качество — одна ручка; память/MCP/кэш/субагенты/скиллы с замерами и источниками + кейс бюджет-гейта.
 
 ## Ядро метода (TL;DR)
 
