@@ -2,6 +2,8 @@
 
 **Ретро-скилл + ресёрч, которые превращают опыт каждой сессии Claude Code в надёжные механизмы — чтобы агент становился умнее с каждой сессией, а не начинал с нуля.**
 
+🇬🇧 [English README](README.en.md)
+
 > A retrospective/self-improvement skill for Claude Code. It turns each session's lessons (failures *and* wins) into durable artifacts — hooks, skills, gates, checklists — wired into the inevitable chokepoints a future session must pass through. Content is in Russian; the method is language-agnostic. MIT-licensed.
 
 ---
