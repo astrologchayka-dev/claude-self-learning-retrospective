@@ -24,6 +24,8 @@ Capture → Distill → Revise-gate → Route → Index-for-retrieval → **Veri
 
 Grounded in the research on self-improving agents (Voyager's skill library, Reflexion, Case-Based Reasoning, MemGPT), postmortem engineering (Google SRE, just culture, hierarchy of controls), and lean (SDCA→PDCA, hansei, yokoten). Full write-up with sources: [research/self-learning-loop-for-claude.md](research/self-learning-loop-for-claude.md).
 
+Also in this repo: [research/claude-code-context-efficiency.md](research/claude-code-context-efficiency.md) (in Russian) — Claude Code context economics: why saving tokens and raising quality are the same knob; memory / MCP / caching / subagents / skills with measured numbers, plus a budget-gate case study.
+
 ## Routing map — where to put a lesson (by descending reliability)
 
 | Lesson type | Where | Why |
